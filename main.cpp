@@ -1,5 +1,6 @@
 #include <iostream>
-// new
+// this program for students
+
 using namespace std;
 
 int main()
